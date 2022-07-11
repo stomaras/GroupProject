@@ -1,0 +1,13 @@
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\bin\Debug\ExperimentsAcropoli.exe.config
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\bin\Debug\ExperimentsAcropoli.exe
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\bin\Debug\ExperimentsAcropoli.pdb
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\bin\Debug\EntityFramework.dll
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\bin\Debug\EntityFramework.xml
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\obj\Debug\ExperimentsAcropoli.csproj.AssemblyReference.cache
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\obj\Debug\ExperimentsAcropoli.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\obj\Debug\ExperimentsAcropoli.csproj.CoreCompileInputs.cache
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\obj\Debug\ExperimentsAcropoli.csproj.CopyComplete
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\obj\Debug\ExperimentsAcropoli.exe
+C:\Users\kiris3992\Source\Repos\stomaras\GroupProject\Acropoli\ExperimentsAcropoli\obj\Debug\ExperimentsAcropoli.pdb
