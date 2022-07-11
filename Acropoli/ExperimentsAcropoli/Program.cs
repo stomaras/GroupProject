@@ -12,6 +12,9 @@ namespace ExperimentsAcropoli
         {
             var test = "test";
             Console.WriteLine(test);
+
+            Console.WriteLine(2);    
+
         }
     }
 }
