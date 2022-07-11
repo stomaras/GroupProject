@@ -15,6 +15,8 @@ namespace ExperimentsAcropoli
 
             Console.WriteLine(2);    
 
+            Console.ReadKey();
+
         }
     }
 }
