@@ -10,6 +10,8 @@ namespace ExperimentsAcropoli
     {
         static void Main(string[] args)
         {
+            var test = "test";
+            Console.WriteLine(test);
         }
     }
 }
